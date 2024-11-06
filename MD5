@@ -1,0 +1,12 @@
+1853006d01b57a5a83589130dcb69025 *DESCRIPTION
+28b1739ea2234cf2b781ec48aa264cfe *LICENSE
+3db2159ec26c8563a028aba6dea81c74 *NAMESPACE
+9872fa139ced9ebde27540ccbaeba09d *R/get_conservation_status.R
+4754e135d6852106655ea0178193d349 *R/get_vernacularname.R
+b94ff504c6db3106ab2ed3001384f2de *R/zzz.R
+1c3a514b74712eeaff296de2057e7b33 *README.md
+3da46e4fbd0b65d82c1ea082a34b3c00 *inst/CITATION
+3a7aceddad351d0f5cba1b4eb51f75ee *man/get_common_name.Rd
+d9b515e7154f405642ede95a6849a072 *man/get_conservation_status.Rd
+9f44419e05c996fa885a9e4340e07834 *tests/testthat.R
+a7ada5a1e9f4d7e796a36e601feb156b *tests/testthat/test-get_conservation_status.R

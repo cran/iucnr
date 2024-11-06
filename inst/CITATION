@@ -1,0 +1,10 @@
+bibentry(
+  bibtype = "Manual",
+  textVersion = "Santos-Andrade Paul E. (2024). iucnr: IUCN Red List Data.",
+  header = "To cite iucnr in publications use:",
+  author = "Paul E. Santos Andrade",
+  title = "iucnr: IUCN Red List Data",
+  year = "2024",
+  url = "https://paulesantos.github.io/iucnr/",
+  footer = "To cite the IUCN dataset, please use: \nIUCN (2022). The IUCN Red List of Threatened Species. Version 2022-2. https://www.iucnredlist.org. Downloaded on 2023-05-09. https://doi.org/10.15468/0qnb58 accessed via GBIF.org on 2023-11-17."
+)
